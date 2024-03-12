@@ -21,5 +21,3 @@ class CustomValidException extends Exception {
         }
     }
 }
-
-
