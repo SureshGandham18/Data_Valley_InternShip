@@ -5,8 +5,8 @@ import java.util.*;
 class patientinfodetail {
     
     static final String JDBC_URL = "jdbc:oracle:thin:@//localhost:1521/xe";
-    static final String USERNAME = "vaddebabu";
-    static final String PASSWORD = "system";
+    static final String USERNAME = "Replace_with_your_Username";
+    static final String PASSWORD = "Replace_with_your_password";
 
     public static void main(String[] args) {
         Connection conn = null;
